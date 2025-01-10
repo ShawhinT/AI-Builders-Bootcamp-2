@@ -1,5 +1,5 @@
 # AI-Builders-Bootcamp-2
-Code repository for AI Builders Bootcamp #2. Starting on Jan 10, 2025!
+Code repository for AI Builders Bootcamp #2.
 
 See Cohort 1 examples [here](https://github.com/ShawhinT/AI-Builders-Bootcamp-1).
 
