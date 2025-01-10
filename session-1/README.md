@@ -7,7 +7,7 @@ Links:
 ## How to run the examples
 
 1. Clone this repo
-2. Navigate to downloaded folder and create new venv
+2. Navigate to session-1 folder and create a new venv
 ```
 python -m venv s1-env
 ```
