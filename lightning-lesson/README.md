@@ -25,6 +25,8 @@ source ll-env/bin/activate
 ```
 pip install -r requirements.txt
 ```
+**Note:** Weasyprint library requires installing it on your machine in addition to the Python library. Installation instructions can be found [here](https://doc.courtbouillon.org/weasyprint/stable/first_steps.html#installation).
+
 5. Launch Jupyter Lab
 ```
 jupyter lab
