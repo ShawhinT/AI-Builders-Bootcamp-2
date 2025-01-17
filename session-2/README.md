@@ -1,8 +1,9 @@
 # Session 2: Software 2.0, Data Engineering, ML
 
 Links:
-- Example 1: ETL of AI Job Data
-- Example 2: Training AI Job Classifier
+- [Example 0: Scraping AI Job Board](https://github.com/ShawhinT/AI-Builders-Bootcamp-2/blob/main/session-2/example_0-extract_job_data.py)
+- [Example 1: ETL of AI Job Data](https://github.com/ShawhinT/AI-Builders-Bootcamp-2/blob/main/session-2/example_1-ai_job_etl.ipynb)
+- [Example 2: Training AI Job Classifier](https://github.com/ShawhinT/AI-Builders-Bootcamp-2/blob/main/session-2/example_2-train_job_classifier.ipynb)
 
 ## How to run the examples
 
