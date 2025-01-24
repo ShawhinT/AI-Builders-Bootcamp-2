@@ -1,7 +1,9 @@
 # Session 3: Software 3.0, LLMs, Prompt Engineering
 
 Links:
-- 
+- [Example 1: Research paper summarizer](https://github.com/ShawhinT/AI-Builders-Bootcamp-2/blob/main/session-3/example_1-paper_summarizer.ipynb)
+- [Example 2: Text classifier](https://github.com/ShawhinT/AI-Builders-Bootcamp-2/blob/main/session-3/example_2-text-classifier.ipynb)
+- [Example 3: Local visual QA with LLaMA 3.2 Vision](https://github.com/ShawhinT/AI-Builders-Bootcamp-2/blob/main/session-3/example_3-local_visual_QA.ipynb)
 
 ## How to run the examples
 
