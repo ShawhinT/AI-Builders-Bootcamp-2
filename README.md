@@ -25,3 +25,11 @@ Building ETL pipelines for machine learning projects.
 - [Scraping AI Job Board (1000 jobs)](https://github.com/ShawhinT/AI-Builders-Bootcamp-2/blob/main/session-2/example_0-extract_job_data.py)
 - [ETL of AI Job Data](https://github.com/ShawhinT/AI-Builders-Bootcamp-2/blob/main/session-2/example_1-ai_job_etl.ipynb)
 - [Training AI Job Classifier](https://github.com/ShawhinT/AI-Builders-Bootcamp-2/blob/main/session-2/example_2-train_job_classifier.ipynb)
+
+## Session 3: Software 3.0, Foundation Models, Prompt Engineering
+Here, we begin building AI systems with LLMs. Unlike machine learning, we don't need datasets to get started.
+
+Examples:
+- [Research paper summarizer](https://github.com/ShawhinT/AI-Builders-Bootcamp-2/blob/main/session-3/example_1-paper_summarizer.ipynb)
+- [Text classifier](https://github.com/ShawhinT/AI-Builders-Bootcamp-2/blob/main/session-3/example_2-text-classifier.ipynb)
+- [Local visual QA with LLaMA 3.2 Vision](https://github.com/ShawhinT/AI-Builders-Bootcamp-2/blob/main/session-3/example_3-local_visual_QA.ipynb)
