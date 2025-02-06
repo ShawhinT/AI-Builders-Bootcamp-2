@@ -34,3 +34,11 @@ Examples:
 - [Research paper summarizer](https://github.com/ShawhinT/AI-Builders-Bootcamp-2/blob/main/session-3/example_1-paper_summarizer.ipynb)
 - [Text classifier](https://github.com/ShawhinT/AI-Builders-Bootcamp-2/blob/main/session-3/example_2-text-classifier.ipynb)
 - [Local visual QA with LLaMA 3.2 Vision](https://github.com/ShawhinT/AI-Builders-Bootcamp-2/blob/main/session-3/example_3-local_visual_QA.ipynb)
+
+## Session 4: Software 3.0, RAG, Text Embeddings
+Prompting LLMs ChatGPT-style only scratches the surface of what we can use modern language models for. We can also leverage RAG to improve model performance and text embeddings to make text computable.
+
+Examples:
+- [Analyzing Unstructured Survey Data](https://github.com/ShawhinT/AI-Builders-Bootcamp-2/blob/main/session-4/example_1-unstructured_survey_analysis.ipynb)
+- [Semantic Search Over Blogs](https://github.com/ShawhinT/AI-Builders-Bootcamp-2/blob/main/session-4/example_2-blog_semantic_search.ipynb)
+- [Blog Series QA Assistant (with RAG)](https://github.com/ShawhinT/AI-Builders-Bootcamp-2/blob/main/session-4/example_3-blog_QA_RAG.ipynb)
