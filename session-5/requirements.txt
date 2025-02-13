@@ -1,0 +1,9 @@
+jupyterlab
+ipykernel
+ipywidgets
+datasets
+transformers[torch]
+evaluate
+numpy
+openai
+python-dotenv
