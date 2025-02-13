@@ -42,3 +42,10 @@ Examples:
 - [Analyzing Unstructured Survey Data](https://github.com/ShawhinT/AI-Builders-Bootcamp-2/blob/main/session-4/example_1-unstructured_survey_analysis.ipynb)
 - [Semantic Search Over Blogs](https://github.com/ShawhinT/AI-Builders-Bootcamp-2/blob/main/session-4/example_2-blog_semantic_search.ipynb)
 - [Blog Series QA Assistant (with RAG)](https://github.com/ShawhinT/AI-Builders-Bootcamp-2/blob/main/session-4/example_3-blog_QA_RAG.ipynb)
+
+## Session 5: Software 3.0, Fine-tuning
+Although LLMs can solve a wide range of problems out-of-the-box, there are situations where more model customization is required. This can be achieved through model fine-tuning, which involves adapting a model to a particular use case through additional training.
+
+Examples
+- [Fine-tuning a LinkedIn Post Writer](https://github.com/ShawhinT/AI-Builders-Bootcamp-2/blob/main/session-5/example_1-linkedin_post_writer.ipynb)
+- [Fine-tuning BERT for Text Classification](https://github.com/ShawhinT/AI-Builders-Bootcamp-2/blob/main/session-5/example_2-finetune_bert_classifier.ipynb)
