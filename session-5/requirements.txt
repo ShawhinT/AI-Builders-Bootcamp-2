@@ -7,3 +7,4 @@ evaluate
 numpy
 openai
 python-dotenv
+scikit-learn
