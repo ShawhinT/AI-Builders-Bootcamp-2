@@ -3,7 +3,7 @@
 Links:
 - [Example 1: Fine-tuning a LinkedIn Post Writer](https://github.com/ShawhinT/AI-Builders-Bootcamp-2/blob/main/session-5/example_1-linkedin_post_writer.ipynb)
 - [Example 2: Fine-tuning BERT for Text Classification](https://github.com/ShawhinT/AI-Builders-Bootcamp-2/blob/main/session-5/example_2-finetune_bert_classifier.ipynb)
-- Slides
+- [Slides](https://github.com/ShawhinT/AI-Builders-Bootcamp-2/blob/main/session-5/slides.pdf)
 
 ## How to run the examples
 
